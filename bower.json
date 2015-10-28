@@ -1,0 +1,18 @@
+{
+  "name": "angular-amd-seed",
+  "description": "A seed project angular && requirejs && angularAMD",
+  "version": "0.0.0",
+  "homepage": "https://github.com/markaii/angular-amd-seed.git",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "angular": "1.4.x",
+    "angular-mocks": "1.4.x",
+    "angular-resource": "1.4.x",
+    "angular-ui-router": "~0.2.15",
+    "html5-boilerplate": "~5.2.0",
+    "requirejs-text": "2.0.x",
+    "requirejs": "2.1.x",
+    "angularAMD": "0.2.x"
+  }
+}
